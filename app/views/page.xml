@@ -1,0 +1,6 @@
+<Page>
+    <ActionBar title="Page2">
+        <NavigationButton text="Go Back" android.systemIcon="ic_menu_back" tap="onNavBtnTap"/>
+    </ActionBar>
+    <Label text="Second page"/>
+</Page>
